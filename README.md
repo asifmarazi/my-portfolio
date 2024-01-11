@@ -1,1 +1,1 @@
-This is my Portfolio website. This is initial stage.
+This is my Portfolio website.
